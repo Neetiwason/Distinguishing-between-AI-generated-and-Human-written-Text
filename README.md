@@ -17,7 +17,7 @@ Using [CHEAT: A Large-scale Dataset for Detecting CHatGPT-writtEn AbsTracts](htt
 
 > ## How to use?
 
-- Clone repo using `git clone https://github.com/JaideepDUCS/CHEAT-A-Network-Analysis.git`
+- Clone repo using `git clone https://github.com/Neetiwason/Distinguishing-between-AI-generated-and-Human-written-Text.git`
 - Open [`src/sampling.ipynb`](src/sampling.ipynb) > Run All
 - Open TAACO tool. Select input folder as `taaco/inputs`, select output folder as `taaco/outputs`
 
